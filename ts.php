@@ -1,1 +1,5 @@
-<?php echo"jayewgf"; ?>
+<?php echo"jayewgf"; 
+
+echo "main gas ayok";
+
+?>
